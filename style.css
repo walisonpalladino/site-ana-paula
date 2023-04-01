@@ -2,3 +2,10 @@ body {
     background-size: auto;
     background-image: url(img/background.jpg);
 }
+h1 {
+    text-align: center;
+}
+.menuSuperior, a{
+    text-align: center;
+    padding: 5px 25px 5px 25px;
+}
